@@ -1,0 +1,50 @@
+.fonte_cabeçario {
+    font-size: 30px;
+    background-color: #e6e6e6bd;
+    text-align: center;
+}
+
+.meu_perfil {
+    font-size: 20;
+    text-align: center;
+}
+
+.div-p {
+    font-size: 20;
+    text-align: justify;
+    padding: 7px;
+    margin: 7px;
+}
+
+.sub_titulo {
+    background-color: #e6e6e6bd;
+    cursor: pointer;
+    padding: 5px;
+}
+
+a {
+    color: black;
+    border: 1px solid black;
+    background-color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.p_alinhado {
+    text-align: justify;
+}
+
+.borda {
+    border: 3px solid black
+}
+
+.botao {
+    padding: 7px;
+    margin: 7px;
+}
+
+.p_marcação {
+
+    text-decoration: underline;
+    font-size: 20px;
+}
